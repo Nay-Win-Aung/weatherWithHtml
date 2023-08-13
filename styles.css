@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+#cityInput {
+    padding: 10px;
+    width: 200px;
+}
+
+#getWeatherButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#weatherOutput {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
